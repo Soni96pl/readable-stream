@@ -1,7 +1,7 @@
 {
-  "name": "readable-stream",
-  "version": "2.3.6",
-  "description": "Streams3, a user-land copy of the stream library from Node.js",
+  "name": "readable-stream2-react-native",
+  "version": "2.3.7",
+  "description": "Streams2, a user-land copy of the stream library from Node.js with React Native compatibility",
   "main": "readable.js",
   "dependencies": {
     "core-util-is": "~1.0.0",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodejs/readable-stream"
+    "url": "git://github.com/Soni96pl/readable-stream2-react-native"
   },
   "keywords": [
     "readable",
